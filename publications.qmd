@@ -1,0 +1,12 @@
+## Publications
+
+*   Marmur, G., Rajabi, H., **Schwarcz, J.**, Reiner, R., Kadmon, J., & Lottem, E. (2026). Orbitofrontal cortex contributes to context-dependent timing under ambiguity. *iScience*, 29(8), 117110.
+*   **Schwarcz, J.** (2026). Factorization regret mediates compositional generalization in latent space. *arXiv preprint arXiv:2603.27134*.
+*   **Schwarcz, J.**, Bauer, J., Rajabi, H., Marmur, G., Reiner, R., Lottem, E., & Kadmon, J. (2025). Neural mechanisms of flexible perceptual inference. *PLOS Computational Biology*, 21(12), e1013675.
+
+## Conferences & Invited Talks
+
+*   **Schwarcz, J.** (2026). Learning How Abstract Variables Interact from Naturalistic Feedback [Invited Talk]. CMC Lab, Dresden, Germany.
+*   **Schwarcz, J.**, Bauer, J. (2025). Neural mechanisms of flexible perceptual inference [Workshop Talk]. Gatsby Tri-center Computational Neuroscience Annual Meeting 2025, London, UK.
+*   **Schwarcz, J.**, Bauer, J., Rajabi, H., Marmur, G., Reiner, R., Lottem, E., & Kadmon, J. (2024). Recurrent networks under constraint of sparse reward learn interacting belief state dynamics [Poster]. Cosyne 2024, Lisbon, Portugal.
+*   **Schwarcz, J.**, Lottem, E., & Kadmon, J. (2023). Network dynamics implement optimal inference in a flexible timing task [Poster]. Cosyne 2023, Montreal, Canada.

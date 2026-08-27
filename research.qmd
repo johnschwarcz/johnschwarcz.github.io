@@ -1,0 +1,28 @@
+---
+title: "Research"
+---
+
+My research sits at the intersection of computational neuroscience and machine learning.
+I investigate how intelligent systems—both biological and artificial—generalize from experience in partially observable environments.
+
+---
+
+## Cognitive Gridworld
+I developed **Cognitive Gridworld**, an open-source framework for investigating how agents learn the compositional structure of the world from naturalistic feedback.
+
+**Resources:** [GitHub Repository](https://github.com/johnschwarcz/coggrid)
+
+---
+
+## Representation Classification Chains (RCC)
+I designed the **Representation Classification Chains** architecture, which tackles continual meta-learning as a variational-inference problem.
+The key insight was to seperate gradients for variable inference (meta-learning) and parameter estimation (continual-learning).
+
+**Resources:** [arXiv:2603.27134](https://arxiv.org/abs/2603.27134)
+
+---
+
+## Technical Toolkit & Methods
+
+* **Core Paradigms:** Deep RL, RNNs, Variational Inference, POMDPs, Bayesian beliefs, compositional generalization, latent space.
+* **Implementation:** Training and customization in PyTorch, Python scientific stack (NumPy, SciPy, Matplotlib, etc).

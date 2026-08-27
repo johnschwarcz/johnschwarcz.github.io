@@ -1,0 +1,14 @@
+---
+title: "John Schwarcz"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/johnschwarcz
+---
+
+I am a computational neuroscientist specializing in the neural mechanisms of cognitive flexibility, integrating biological, computational and theoretical perspectives for a holistic approach. 
+
+I recently completed my doctoral degree at the Edmond & Lily Safra Center for Brain Sciences (ELSC) at the Hebrew University of Jerusalem.
