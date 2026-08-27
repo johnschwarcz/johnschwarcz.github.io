@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Independent Research"
 ---
 
 My research sits at the intersection of computational neuroscience and machine learning.
