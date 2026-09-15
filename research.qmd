@@ -1,9 +1,10 @@
 ---
-title: "Independent Research"
+title: "Research"
 ---
 
 My research sits at the intersection of computational neuroscience and machine learning.
 I investigate how intelligent systems—both biological and artificial—generalize from experience in partially observable environments.
+**Highlighted research:** [arXiv:2603.27134](https://arxiv.org/abs/2603.27134)
 
 ---
 
@@ -18,7 +19,7 @@ I developed **Cognitive Gridworld**, an open-source framework for investigating 
 I designed the **Representation Classification Chains** architecture, which tackles continual meta-learning as a variational-inference problem.
 The key insight was to seperate gradients for variable inference (meta-learning) and parameter estimation (continual-learning).
 
-**Resources:** [arXiv:2603.27134](https://arxiv.org/abs/2603.27134)
+**Resources:** [GitHub Repository](https://github.com/johnschwarcz/rcc)
 
 ---
 
