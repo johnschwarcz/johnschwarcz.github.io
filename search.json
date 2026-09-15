@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research sits at the intersection of computational neuroscience and machine learning. I investigate how intelligent systems—both biological and artificial—generalize from experience in partially observable environments. Highlighted research: arXiv:2603.27134"
+  },
+  {
+    "objectID": "research.html#cognitive-gridworld",
+    "href": "research.html#cognitive-gridworld",
+    "title": "Research",
+    "section": "Cognitive Gridworld",
+    "text": "Cognitive Gridworld\nI developed Cognitive Gridworld, an open-source framework for investigating how agents learn the compositional structure of the world from naturalistic feedback.\nResources: GitHub Repository"
+  },
+  {
+    "objectID": "research.html#representation-classification-chains-rcc",
+    "href": "research.html#representation-classification-chains-rcc",
+    "title": "Research",
+    "section": "Representation Classification Chains (RCC)",
+    "text": "Representation Classification Chains (RCC)\nI designed the Representation Classification Chains architecture, which tackles continual meta-learning as a variational-inference problem. The key insight was to seperate gradients for variable inference (meta-learning) and parameter estimation (continual-learning).\nResources: GitHub Repository"
+  },
+  {
+    "objectID": "research.html#technical-toolkit-methods",
+    "href": "research.html#technical-toolkit-methods",
+    "title": "Research",
+    "section": "Technical Toolkit & Methods",
+    "text": "Technical Toolkit & Methods\n\nCore Paradigms: Deep RL, RNNs, Variational Inference, POMDPs, Bayesian beliefs, compositional generalization, latent space.\nImplementation: Training and customization in PyTorch, Python scientific stack (NumPy, SciPy, Matplotlib, etc)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "John Schwarcz",
+    "section": "",
+    "text": "I am a computational neuroscientist specializing in the neural mechanisms of cognitive flexibility, integrating biological, computational and theoretical perspectives for a holistic approach.\nI recently completed my doctoral degree at the Edmond & Lily Safra Center for Brain Sciences (ELSC) at the Hebrew University of Jerusalem."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "John Schwarcz",
+    "section": "",
+    "text": "Marmur, G., Rajabi, H., Schwarcz, J., Reiner, R., Kadmon, J., & Lottem, E. (2026). Orbitofrontal cortex contributes to context-dependent timing under ambiguity. iScience, 29(8), 117110.\nSchwarcz, J. (2026). Factorization regret mediates compositional generalization in latent space. arXiv preprint arXiv:2603.27134.\nSchwarcz, J., Bauer, J., Rajabi, H., Marmur, G., Reiner, R., Lottem, E., & Kadmon, J. (2025). Neural mechanisms of flexible perceptual inference. PLOS Computational Biology, 21(12), e1013675."
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "John Schwarcz",
+    "section": "",
+    "text": "Marmur, G., Rajabi, H., Schwarcz, J., Reiner, R., Kadmon, J., & Lottem, E. (2026). Orbitofrontal cortex contributes to context-dependent timing under ambiguity. iScience, 29(8), 117110.\nSchwarcz, J. (2026). Factorization regret mediates compositional generalization in latent space. arXiv preprint arXiv:2603.27134.\nSchwarcz, J., Bauer, J., Rajabi, H., Marmur, G., Reiner, R., Lottem, E., & Kadmon, J. (2025). Neural mechanisms of flexible perceptual inference. PLOS Computational Biology, 21(12), e1013675."
+  },
+  {
+    "objectID": "publications.html#conferences-invited-talks",
+    "href": "publications.html#conferences-invited-talks",
+    "title": "John Schwarcz",
+    "section": "Conferences & Invited Talks",
+    "text": "Conferences & Invited Talks\n\nSchwarcz, J. (2026). Learning How Abstract Variables Interact from Naturalistic Feedback [Invited Talk]. CMC Lab, Dresden, Germany.\nSchwarcz, J., Bauer, J. (2025). Neural mechanisms of flexible perceptual inference [Workshop Talk]. Gatsby Tri-center Computational Neuroscience Annual Meeting 2025, London, UK.\nSchwarcz, J., Bauer, J., Rajabi, H., Marmur, G., Reiner, R., Lottem, E., & Kadmon, J. (2024). Recurrent networks under constraint of sparse reward learn interacting belief state dynamics [Poster]. Cosyne 2024, Lisbon, Portugal.\nSchwarcz, J., Lottem, E., & Kadmon, J. (2023). Network dynamics implement optimal inference in a flexible timing task [Poster]. Cosyne 2023, Montreal, Canada."
+  }
+]
