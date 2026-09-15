@@ -4,7 +4,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research sits at the intersection of computational neuroscience and machine learning. I investigate how intelligent systems—both biological and artificial—generalize from experience in partially observable environments."
+    "text": "My research sits at the intersection of computational neuroscience and machine learning. I investigate how intelligent systems—both biological and artificial—generalize from experience in partially observable environments. Highlighted research: arXiv:2603.27134"
   },
   {
     "objectID": "research.html#cognitive-gridworld",
@@ -18,7 +18,7 @@
     "href": "research.html#representation-classification-chains-rcc",
     "title": "Research",
     "section": "Representation Classification Chains (RCC)",
-    "text": "Representation Classification Chains (RCC)\nI designed the Representation Classification Chains architecture, which tackles continual meta-learning as a variational-inference problem. The key insight was to seperate gradients for variable inference (meta-learning) and parameter estimation (continual-learning).\nResources: arXiv:2603.27134"
+    "text": "Representation Classification Chains (RCC)\nI designed the Representation Classification Chains architecture, which tackles continual meta-learning as a variational-inference problem. The key insight was to seperate gradients for variable inference (meta-learning) and parameter estimation (continual-learning).\nResources: GitHub Repository"
   },
   {
     "objectID": "research.html#technical-toolkit-methods",
